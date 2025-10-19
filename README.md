@@ -45,12 +45,6 @@
     </ul>
   </div>
 
-  <!-- GitHub Stats 模块 -->
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.07); margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ymaple17&show_icons=true&theme=tokyonight" 
-         alt="Christmas's GitHub stats" 
-         style="width: 100%; border-radius: 15px; transition: transform 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.02)'"
-         onmouseout="this.style.transform='scale(1)'">
-  </div>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ymaple17&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ymaple17&show_icons=true&theme=transparent)
+![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ymaple17&theme=xcode)
