@@ -10,17 +10,17 @@
   <p>🚀 Diving deep into CPU design with ysyx, exploring the world of FPGA, and building intelligent systems with AI algorithms. </p>
   
 </div>
----
-
-### 📖 About Me
-
-- 🔭 **Working on:** Projects at Shenzhen Technology University.
-- 🌱 **Currently Learning:** `ysyx`, Embedded Systems, FPGA, and advanced Algorithms.
-- 🤔 **My Focus:** Integrated Circuit (IC) Design, Digital Verification, and AI Algorithms.
-- 💬 **Using Language:** Verilog/SystemVerilog, C/C++, Python, Chisel.
-- 📫 **How to reach me:** `3886599511@qq.com`
-
----
+            ---
+            
+            ### 📖 About Me
+            
+            - 🔭 **Working on:** Projects at Shenzhen Technology University.
+            - 🌱 **Currently Learning:** ysyx, Embedded Systems, FPGA, and advanced Algorithms.
+            - 🤔 **My Focus:** Integrated Circuit (IC) Design, Digital Verification, and AI Algorithms.
+            - 💬 **Using Language:** Verilog/SystemVerilog, C/C++, Python, Chisel.
+            - 📫 **How to reach me:** 3886599511@qq.com
+            
+            ---
 
 ### 🛠️ My Tech Stack
 
