@@ -1,22 +1,15 @@
-<div align="center">
-  <img src="./picture.jpg" width="600" alt="Your Custom Image">
-</div>
-
+<h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ~</h1>
 <div align="center">
   
   <h1>Hey , I'm qiu 👋</h1>
+
+  <img src="./picture.jpg" width="300" alt="Your Custom Image">
   
   <h3>A passionate learner from Shenzhen, China 🇨🇳, focusing on IC & Embedded Engineering.</h3>
   
   <p>🚀 Diving deep into CPU design with ysyx, exploring the world of FPGA, and building intelligent systems with AI algorithms. </p>
   
 </div>
-
-<div align="center">
-  <img src="./picture.jpg" width="300" alt="Your Custom Image">
-</div>
-
-<div align="center">
 ---
 
 ### 📖 About Me
