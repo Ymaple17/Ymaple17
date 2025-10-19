@@ -8,7 +8,7 @@
   
   <h3>A passionate learner from Shenzhen, China 🇨🇳, focusing on IC & Embedded Engineering.</h3>
   
-  <p>🚀 Diving deep into CPU design with ysyx, exploring the world of FPGAs, and building intelligent systems with AI algorithms. </p>
+  <p>🚀 Diving deep into CPU design with ysyx, exploring the world of FPGA, and building intelligent systems with AI algorithms. </p>
   
 </div>
 
@@ -17,9 +17,9 @@
 ### 📖 About Me
 
 - 🔭 **Working on:** Projects at Shenzhen Technology University.
-- 🌱 **Currently Learning:** ysyx, Embedded Systems, FPGA, and advanced Algorithms.
+- 🌱 **Currently Learning:** `ysyx`, Embedded Systems, FPGA, and advanced Algorithms.
 - 🤔 **My Focus:** Integrated Circuit (IC) Design, Digital Verification, and AI Algorithms.
-- 💬 **Ask me about:** Verilog/Systemverilog, C/C++, Python, chisel.
+- 💬 **Using Language:** Verilog/SystemVerilog, C/C++, Python, Chisel.
 - 📫 **How to reach me:** `3886599511@qq.com`
 
 ---
@@ -31,7 +31,8 @@ Here are some of the technologies I'm proficient with or currently learning.
 <p align="left">
   <strong>Hardware & IC Design:</strong><br>
   <a href="#"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-1E407C?style=for-the-badge&logo=verilog&logoColor=white"></a>
-  <a href="#"><img alt="VHDL" src="https://img.shields.io/badge/VHDL-0074D9?style=for-the-badge&logo=vhdl&logoColor=white"></a>
+  <a href="#"><img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-1E8449?style=for-the-badge&logo=ieee&logoColor=white"></a>
+  <a href="#"><img alt="Chisel" src="https://img.shields.io/badge/Chisel-DC322F?style=for-the-badge&logo=scala&logoColor=white"></a>
   <a href="#"><img alt="FPGA" src="https://img.shields.io/badge/FPGA-D9534F?style=for-the-badge&logo=xilinx&logoColor=white"></a>
   <a href="#"><img alt="Embedded" src="https://img.shields.io/badge/Embedded C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"></a>
 </p>
