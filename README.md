@@ -1,50 +1,64 @@
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; letter-spacing: 1px; margin-bottom: 8px; background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2rem;">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ~</h1>
-
-<div align="center" style="margin-bottom: 24px;">
-  <h3 style="font-family: 'Segoe UI', sans-serif; margin: 8px 0; font-weight: 600; background: linear-gradient(135deg, #2b6cb0 0%, #3182ce 100%); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 1.4rem;">
-    A Learner Focused on IC & Embedded Engineering 🚀
-  </h3>
-  <p style="font-family: 'Segoe UI', sans-serif; color: #64748b; margin: 0; font-size: 1rem; letter-spacing: 0.5px;">
-    Shenzhen Technology University | IC & AI Algorithm Enthusiast
-  </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ymaple17/Ymaple17/main/GIF/hello.gif" width="600" alt="Hello Banner">
 </div>
 
-<!-- 动态分隔线 -->
-<div align="center" style="margin: 20px 0; width: 80%; max-width: 600px; position: relative; height: 2px;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; height: 100%; background: linear-gradient(90deg, transparent, #4facfe, transparent); opacity: 0.7; animation: shimmer 3s infinite;"></div>
-</div>
-
-<div align="center" style="width: 80%; max-width: 600px; margin: 0 auto;">
-  <!-- About Me 模块 -->
-  <h4 style="font-family: 'Segoe UI', sans-serif; text-align: left; margin-bottom: 15px; display: flex; align-items: center; font-size: 1.2rem; background: linear-gradient(90deg, #2d3748 0%, #4a5568 100%); -webkit-background-clip: text; background-clip: text; color: transparent;">
-    📌 <span style="margin-left: 8px;">About Me</span>
-  </h4>
+<div align="center">
   
-  <div style="background: linear-gradient(145deg, #ffffff 0%, #f8fafc 100%); border: 1px solid #e2e8f0; border-radius: 15px; padding: 25px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.07); margin-bottom: 30px; transition: transform 0.3s ease;">
-    <ul style="list-style: none; padding: 0; line-height: 2.4; font-family: 'Segoe UI', sans-serif; color: #2d3748;">
-      <li style="display: flex; align-items: flex-start; margin-bottom: 12px; transition: padding-left 0.2s ease;">
-        <span style="color: #4facfe; margin-right: 12px; font-size: 18px; text-shadow: 0 0 8px rgba(79, 172, 254, 0.3);">🔭</span>
-        <strong style="color: #2d3748;">Working at</strong>: Shenzhen Technology University
-      </li>
-      <li style="display: flex; align-items: flex-start; margin-bottom: 12px; transition: padding-left 0.2s ease;">
-        <span style="color: #4facfe; margin-right: 12px; font-size: 18px; text-shadow: 0 0 8px rgba(79, 172, 254, 0.3);">🌱</span>
-        <strong style="color: #2d3748;">Learning</strong>: ysyx, Embedded System, FPGA, Algorithm
-      </li>
-      <li style="display: flex; align-items: flex-start; margin-bottom: 12px; transition: padding-left 0.2s ease;">
-        <span style="color: #4facfe; margin-right: 12px; font-size: 18px; text-shadow: 0 0 8px rgba(79, 172, 254, 0.3);">🤔</span>
-        <strong style="color: #2d3748;">Focus on</strong>: Integrated Circuit (IC) Design & AI Algorithm
-      </li>
-      <li style="display: flex; align-items: flex-start; transition: padding-left 0.2s ease;">
-        <span style="color: #4facfe; margin-right: 12px; font-size: 18px; text-shadow: 0 0 8px rgba(79, 172, 254, 0.3);">📫</span>
-        <strong style="color: #2d3748;">Reach me</strong>: 
-        <a href="mailto:3886599511@qq.com" style="color: #4facfe; text-decoration: none; margin-left: 4px; position: relative; padding: 2px 0;">
-          3886599511@qq.com
-          <span style="position: absolute; bottom: 0; left: 0; width: 0; height: 1px; background: #4facfe; transition: width 0.3s ease;"></span>
-        </a>
-      </li>
-    </ul>
-  </div>
+  <h1>Hey there, I'm Ymaple17 👋</h1>
+  
+  <h3>A passionate learner from Shenzhen, China 🇨🇳, focusing on IC & Embedded Engineering.</h3>
+  
+  <p>🚀 Diving deep into CPU design with ysyx, exploring the world of FPGAs, and building intelligent systems with AI algorithms. </p>
+  
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ymaple17&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ymaple17&show_icons=true&theme=transparent)
-![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ymaple17&theme=xcode)
+<p align="center">
+  <a href="mailto:3886599511@qq.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  </p>
+
+---
+
+### 📖 About Me
+
+- 🔭 **Working on:** Projects at Shenzhen Technology University.
+- 🌱 **Currently Learning:** `ysyx (一生一芯)`, Embedded Systems, FPGA, and advanced Algorithms.
+- 🤔 **My Focus:** Integrated Circuit (IC) Design, Digital Verification, and AI Algorithms.
+- 💬 **Ask me about:** Verilog, C/C++, or anything related to my projects!
+- 📫 **How to reach me:** `3886599511@qq.com`
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I'm proficient with or currently learning.
+
+<p align="left">
+  <strong>Hardware & IC Design:</strong><br>
+  <a href="#"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-1E407C?style=for-the-badge&logo=verilog&logoColor=white"></a>
+  <a href="#"><img alt="VHDL" src="https://img.shields.io/badge/VHDL-0074D9?style=for-the-badge&logo=vhdl&logoColor=white"></a>
+  <a href="#"><img alt="FPGA" src="https://img.shields.io/badge/FPGA-D9534F?style=for-the-badge&logo=xilinx&logoColor=white"></a>
+  <a href="#"><img alt="Embedded" src="https://img.shields.io/badge/Embedded C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"></a>
+</p>
+<p align="left">
+  <strong>Languages & Tools:</strong><br>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ymaple17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ymaple17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ymaple17&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
