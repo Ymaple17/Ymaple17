@@ -54,22 +54,3 @@
          onmouseout="this.style.transform='scale(1)'">
   </div>
 </div>
-
-<style>
-  @keyframes shimmer {
-    0% { background-position: -200% 0; }
-    100% { background-position: 200% 0; }
-  }
-  
-  li:hover {
-    padding-left: 5px;
-  }
-  
-  a:hover span {
-    width: 100%;
-  }
-  
-  div[style*="box-shadow"]:hover {
-    transform: translateY(-3px);
-  }
-</style>
