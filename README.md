@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <h1>Hey there, I'm Ymaple17 👋</h1>
+  <h1>Hey there, I'm qiu 👋</h1>
   
   <h3>A passionate learner from Shenzhen, China 🇨🇳, focusing on IC & Embedded Engineering.</h3>
   
@@ -12,22 +12,14 @@
   
 </div>
 
-<p align="center">
-  <a href="mailto:3886599511@qq.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  </p>
-
 ---
 
 ### 📖 About Me
 
 - 🔭 **Working on:** Projects at Shenzhen Technology University.
-- 🌱 **Currently Learning:** `ysyx (一生一芯)`, Embedded Systems, FPGA, and advanced Algorithms.
+- 🌱 **Currently Learning:** ysyx, Embedded Systems, FPGA, and advanced Algorithms.
 - 🤔 **My Focus:** Integrated Circuit (IC) Design, Digital Verification, and AI Algorithms.
-- 💬 **Ask me about:** Verilog, C/C++, or anything related to my projects!
+- 💬 **Ask me about:** Verilog/Systemverilog, C/C++, Python, chisel.
 - 📫 **How to reach me:** `3886599511@qq.com`
 
 ---
