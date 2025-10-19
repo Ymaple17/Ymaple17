@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ymaple17/Ymaple17/main/GIF/hello.gif" width="600" alt="Hello Banner">
   <img src="./picture.jpg" width="600" alt="Your Custom Image">
 </div>
 
@@ -13,6 +12,11 @@
   
 </div>
 
+<div align="center">
+  <img src="./picture.jpg" width="300" alt="Your Custom Image">
+</div>
+
+<div align="center">
 ---
 
 ### 📖 About Me
