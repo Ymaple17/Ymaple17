@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ymaple17/Ymaple17/main/GIF/hello.gif" width="600" alt="Hello Banner">
+  <img src="./picture.jpg" width="600" alt="Your Custom Image">
 </div>
 
 <div align="center">
   
-  <h1>Hey there, I'm qiu 👋</h1>
+  <h1>Hey , I'm qiu 👋</h1>
   
   <h3>A passionate learner from Shenzhen, China 🇨🇳, focusing on IC & Embedded Engineering.</h3>
   
